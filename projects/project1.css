@@ -1,9 +1,17 @@
 body {
     width: 100%;
+    background-repeat:no-repeat;
 }
 img {
-    width: 100%;
+    width: 100%;   
+}
+h1 {
+    font-family: 'PT Serif', serif;
+    font-size: 3em;
 }
 p {
-    width: 100%;
+    width: 60%;
+    font-size: 1em;
+    line-height: 1.5;
+    letter-spacing: .025em;
 }
