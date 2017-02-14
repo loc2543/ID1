@@ -1,8 +1,8 @@
 body {
     width: 60%;
-    background-repeat:no-repeat;
-    background-color:azure;
+    background-image:url(../projects/images/background.gif);
     text-align: center;
+    color:aliceblue;
     margin: auto;
     border: 3px;
     padding: 10px;
@@ -16,6 +16,7 @@ h1 {
     font-size: 3em;
     text-align: justify, center;
     font-family: 'Muli', sans-serif;
+    
 }
 h2 {
     font-size: 1.5em;
