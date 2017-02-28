@@ -1,5 +1,11 @@
+header{
+    background-color: darkseagreen;
+    margin: 20px;
+    padding: 25px;
+}
 body {
-    margin: 0;
+    margin: 12px;
+    background-image: url(images/rosebackground.jpg);
 }
 
 img {
@@ -14,4 +20,20 @@ img {
     img {
         width: 80%;
     }
+}
+section {
+    padding: 25px;
+    margin: 20px;
+    background-color: darkseagreen;
+    border-style: solid;
+    border-width: 7px;
+    border-color: darkgreen;
+}
+footer {
+    padding: 5px;
+    margin: 19px;
+    background-color: darkseagreen;
+    border-style: solid;
+    border-width: 7px;
+    border-color: darkgreen;
 }
