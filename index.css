@@ -8,7 +8,19 @@ body {
     margin: 12px;
     background-image: url(images/rosebackground.jpg);
 }
-
+section#Exercises {
+    float:left;
+    width:40%;
+    padding:9px;
+}
+section#Projects {
+    float:right;
+    width:40%;
+    padding:9px
+}
+section#boutme {
+    clear:both;
+}
 img {
     width: 100%
 }
