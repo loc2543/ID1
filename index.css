@@ -13,13 +13,14 @@ img {
     width: 100%
 }
 
-@media only screen and  (max-width:500px){
+@media only screen and  (max-width: 500px){
     body {
         width: 80%;
         padding: 2% 2%;
     }
     img {
-        max-width: 500px;
+        width: 100%;
+        
     }
 }
 section {
