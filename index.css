@@ -8,18 +8,40 @@ body {
     margin: 12px;
     background-image: url(images/rosebackground.jpg);
 }
+section {
+    padding: 25px;
+    margin: 20px;
+    background-color: darkseagreen;
+    border-style: solid;
+    border-width: 7px;
+    border-color: darkgreen;
+    }
 section#Exercises {
+    background-color: darkseagreen;
     float:left;
     width:40%;
     padding:9px;
+    margin: 12px;
 }
 section#Projects {
+    background-color: darkseagreen;
     float:right;
     width:40%;
-    padding:9px
+    padding:9px;
+    margin: 12px;
 }
 section#boutme {
     clear:both;
+    background-color: darkseagreen;
+    margin: 12px;
+}
+footer {
+    padding: 25px;
+    margin: 20px;
+    background-color: darkseagreen;
+    border-style: solid;
+    border-width: 7px;
+    border-color: darkgreen;
 }
 img {
     width: 100%
@@ -34,7 +56,6 @@ img {
         width: 100%;
         
     }
-}
 section {
     padding: 25px;
     margin: 20px;
@@ -42,7 +63,15 @@ section {
     border-style: solid;
     border-width: 7px;
     border-color: darkgreen;
-}
+    }
+section#Exercises{
+    width:80%;
+    padding: 2% 2%;
+    }
+section#Projects{
+    width:80%;
+    padding: 2% 2%;
+    }
 footer {
     padding: 5px;
     margin: 19px;
@@ -50,4 +79,5 @@ footer {
     border-style: solid;
     border-width: 7px;
     border-color: darkgreen;
+    }
 }
