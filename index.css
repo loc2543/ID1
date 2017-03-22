@@ -20,15 +20,11 @@ section#Exercises {
     background-color: darkseagreen;
     float:left;
     width:40%;
-    padding:9px;
-    margin: 12px;
 }
 section#Projects {
     background-color: darkseagreen;
     float:right;
     width:40%;
-    padding:9px;
-    margin: 12px;
 }
 section#boutme {
     clear:both;
@@ -66,11 +62,9 @@ section {
     }
 section#Exercises{
     width:80%;
-    padding: 2% 2%;
     }
 section#Projects{
     width:80%;
-    padding: 2% 2%;
     }
 footer {
     padding: 5px;
