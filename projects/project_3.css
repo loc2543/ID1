@@ -1,5 +1,8 @@
 header{
-    background-color: antiquewhite;
+    background-color: darkseagreen;
+    border-color: darkolivegreen;
+    border-style: solid;
+    border-width: 10px;
     margin: 20px;
     padding: 20px;
     text-align: center;
@@ -17,4 +20,12 @@ section {
     border-color: burlywood;
     border-style: solid;
     border-width: 10px;
+}
+h2 {background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
 }
