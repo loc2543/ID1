@@ -1,3 +1,12 @@
 body {
     cursor: url(../images/navi.png), auto;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(zelda_img/ruppee_background.png)
+}
+section {
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: burlywood;
 }
