@@ -1,4 +1,7 @@
-header{
+head {
+    font-family: 'Kalam', cursive;
+}
+header {
     background-color: antiquewhite;
     border-color: burlywood;
     border-style: solid;
@@ -11,8 +14,11 @@ body {
     cursor: url(../images/navi.png), auto;
     margin: 20px;
     padding: 20px;
-    background-image: url(zelda_img/ruppee_background.png)
+    background-image: url(zelda_img/ruppee_background.png);
+    font-family: 'Kalam', cursive;
 }
+
+
 section {
     padding: 25px;
     margin: 20px;
@@ -32,4 +38,55 @@ h2 {background-color: antiquewhite;
 h3 {
     text-align: center;
     padding: 9px;
+}
+section#firstlink {
+    
+}
+img#horse {
+    display: block
+    margin: auto;
+    padding: 5px;
+    width: 1050px;   
+}
+img#supplies {
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#bird {
+    display: block;
+    padding: 5px;
+    width: 800px;
+    margin: auto;
+}
+img#birdhat {
+    display: block;
+    padding: 5px;
+    width: 700px;
+    margin: auto;
+}
+img#smol {
+    display: block;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+img#boss {
+    display: block;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+img#swordtitle {
+    display: block;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+section#birdhat {
+    
+}
+section#time {
+    
 }
