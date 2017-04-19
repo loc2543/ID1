@@ -17,7 +17,15 @@ body {
     background-image: url(zelda_img/ruppee_background.png);
     font-family: 'Kalam', cursive;
 }
-section {
+section#time{
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+}
+section#mask {
     padding: 25px;
     margin: 20px;
     background-color: antiquewhite;
@@ -37,3 +45,28 @@ h3 {
     text-align: center;
     padding: 9px;
 }
+img#timetitle {
+    display: block;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+img#timetemple {
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
+img#masktitle {
+    display: block;
+    padding: 5px;
+    width: 600px;
+    margin: auto;
+}
+img#deku {
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
+img#
