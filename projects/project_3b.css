@@ -33,6 +33,14 @@ section#mask {
     border-style: solid;
     border-width: 10px;
 }
+section#twilight {
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+}
 h2 {background-color: antiquewhite;
     border-color: burlywood;
     border-style: solid;
@@ -57,10 +65,42 @@ img#timetemple {
     width: 400px;
     margin: auto;
 }
+img#twilight {
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#wolflink{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#wolf {
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
 img#masktitle {
     display: block;
     padding: 5px;
     width: 600px;
+    margin: auto;
+}
+section#foursword {
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+}
+img#shade {
+    display: block;
+    padding: 5px;
+    width: 300px;
     margin: auto;
 }
 img#deku {
