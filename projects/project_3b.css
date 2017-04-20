@@ -83,6 +83,12 @@ img#wolf {
     width: 500px;
     margin: auto;
 }
+img#fourtitle{
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
 img#masktitle {
     display: block;
     padding: 5px;
@@ -103,7 +109,31 @@ img#shade {
     width: 300px;
     margin: auto;
 }
+img#blue {
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
+img#red {
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
+img#green{
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
 img#deku {
+    display: block;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+}
+img#vio {
     display: block;
     padding: 5px;
     width: 400px;
