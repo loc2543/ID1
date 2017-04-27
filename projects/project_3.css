@@ -16,9 +16,10 @@ body {
     padding: 20px;
     background-image: url(zelda_img/ruppee_background.png);
     font-family: 'Kalam', cursive;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-
 section {
     padding: 25px;
     margin: 20px;
@@ -39,7 +40,7 @@ h3 {
     text-align: center;
     padding: 9px;
 }
-img#supplies {
+img#sky{
     display: block;
     padding: 5px;
     width: 500px;
@@ -48,13 +49,13 @@ img#supplies {
 img#bird {
     display: block;
     padding: 5px;
-    width: 800px;
+    width: 500px;
     margin: auto;
 }
 img#birdhat {
     display: block;
     padding: 5px;
-    width: 700px;
+    width: 500px;
     margin: auto;
 }
 img#smol {
@@ -72,7 +73,7 @@ img#boss {
 img#swordtitle {
     display: block;
     padding: 5px;
-    width: 500px;
+    width: 400px;
     margin: auto;
 }
 img#fight {
@@ -84,13 +85,13 @@ img#fight {
 img#timetitle {
     display: block;
     padding: 5px;
-    width: 400px;
+    width: 300px;
     margin: auto;
 }
 img#sheik {
     display: block;
     padding: 5px;
-    width: 300px;
+    width: 400px;
     margin: auto;
 }
 footer {

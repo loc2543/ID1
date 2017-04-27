@@ -14,6 +14,9 @@ body {
     font-family: 'Kalam', cursive;
     color:crimson;
     text-align: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .button{
     background-color: lightgreen;

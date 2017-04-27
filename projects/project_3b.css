@@ -16,6 +16,9 @@ body {
     padding: 20px;
     background-image: url(zelda_img/ruppee_background.png);
     font-family: 'Kalam', cursive;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 section#time{
     padding: 25px;
