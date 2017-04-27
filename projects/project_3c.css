@@ -38,7 +38,6 @@ section#wind {
     border-style: solid;
     border-width: 10px;
 }
-
 img#wind_title {
     display: block;
     padding: 5px;
@@ -107,4 +106,43 @@ img#bellum{
     width: 500px;
     margin: auto;
 }
-
+section#spirit{
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+}
+img#spirit{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#tracks{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#boss{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#map{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+footer {
+    padding: 5px;
+    margin: 5px;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+}
