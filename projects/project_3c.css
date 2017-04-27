@@ -81,3 +81,30 @@ img#bye{
     width: 500px;
     margin: auto;
 }
+section#phantom{
+    padding: 25px;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: solid;
+    border-width: 10px;
+}
+img#phantom_title{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#linebeck{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+img#bellum{
+    display: block;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+}
+
